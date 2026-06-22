@@ -3,9 +3,9 @@
 Machine Learning pipeline for breast cancer diagnosis using feature selection techniques, class balancing, explainable AI and model comparison.
 
 ## Dataset
-Dataset: Wisconsin Breast Cancer Dataset (scikit-learn)
-569 observations
-30 features
+Dataset: Wisconsin Breast Cancer Dataset (scikit-learn)<br>
+569 observations<br>
+30 features<br>
 Binary classification
 
 ## Techniques 
